@@ -1,3 +1,3 @@
 # scriptor-v.11
-<img src="https://imgur.com/G59pxcUl.png" />
+<img src="https://i.imgur.com/G59pxcU.png" />
 
