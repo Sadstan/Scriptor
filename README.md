@@ -16,6 +16,8 @@ A versão utilizada no desenvolvimento do script foi utilizado a versão 3.7.2 d
 Foi utilizado também as bibliotecas padrões do Python: Random, Os, Smtplib, Time, Requests
 Necessário estar instalado: Biblioteca externa do Python "Tqdm".
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/220px-Requests_Python_Logo.png"/>
+
 # Desenvolvimento
 O script está em desenvolvimento e em sua fase inicial, contendo apenas funcionalidades pequenas.
 O intuito é trazer uma ferramenta que seja capaz de entregar sub-ferramentas para que possa ser utilizado!
