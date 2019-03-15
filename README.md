@@ -14,7 +14,7 @@
 
 # Versão do Python e bibliotecas
 A versão utilizada no desenvolvimento do script foi utilizado a versão 3.7.2 do Python.
-Foi utilizado também as bibliotecas do Python: **SMTP, OS, GETPASS, REQUESTS, TIME**
+Foi utilizado também as bibliotecas do Python: **Smtplib, OS, Getpass, Requests, Time**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/220px-Requests_Python_Logo.png"/>
 
