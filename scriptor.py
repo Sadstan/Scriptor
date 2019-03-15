@@ -5,7 +5,6 @@ import requests
 import os
 import smtplib
 from getpass import getpass
-from tqdm import tqdm
 from time import sleep
 import banner
 
