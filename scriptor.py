@@ -77,7 +77,7 @@ def Login_Smtp():
 	if provedor == 1:
 		user = input('Seu endereço de email: ').lower().strip()
 		Verifica_Email(provedor, user)
-		password = input("Digite a sua senha: ").strip()
+		password = getpass("Digite a sua senha: ")
 		Smtp_Server('smtp.mail.yahoo.com', 465, user, password)
 
 	elif provedor == 2:
@@ -90,13 +90,13 @@ def Login_Smtp():
 	elif provedor == 3:
 		user = input('Seu endereço de email: ').lower().strip()
 		Verifica_Email(provedor,user)
-		password = input("Digite a sua senha: ").strip()
+		password = getpass("Digite a sua senha: ")
 		Smtp_Server('imap-mail.outlook.com', 587, user, password)
 
 	elif provedor == 4:
 		user = input('Seu endereço de email: ').lower().strip()
 		Verifica_Email(provedor,user)
-		password = input("Digite a sua senha: ")
+		password = getpass("Digite a sua senha: ")
 		Smtp_Server('smtp.live.com', 465, user, password)
 	else:
 		print("Opção inválida!")
