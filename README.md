@@ -4,9 +4,16 @@ O script visa ter um conjunto de ferramentas para pentesters como keyloggers, ba
 
 <table>
    <tr>
-     <td>aaaa</td>
-     <td>aaaa</td>
-     <td>aaa</td>
+     <td>Bibliotecas</td>
+     <td>Versão Python</td>
+   </tr>
+   
+   <tr>
+      <td>Smtplib</td>
+      <td>OS</td>
+      <td>Getpass</td>
+      <td>Requests</td>
+      <td>Time</td>
    </tr>
 </table> 
 
