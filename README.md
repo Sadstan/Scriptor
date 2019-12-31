@@ -9,8 +9,11 @@ O script visa ter um conjunto de ferramentas para pentesters como keyloggers, ba
    </tr>
   
   <tr>
-     <td>Bibliotecas</td>
-     <td>Versão Python</td>   
+     <td>Smtplib/td>
+     <td>3.7.2</td>
+   <td>OS</td>
+   <td></td>
+   <td>Getpass</td>
   </tr>
 </table> 
 
