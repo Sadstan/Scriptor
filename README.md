@@ -2,21 +2,6 @@
 
 O script visa ter um conjunto de ferramentas para pentesters como keyloggers, backdoors, scripts TCP/IP e exploits.
 
-<table>
-   <tr>
-     <td>Bibliotecas</td>
-     <td>Versão Python</td>   
-   </tr>
-  
-  <tr>
-     <td>Smtplib/td>
-     <td>3.7.2</td>
-   <td>OS</td>
-   <td></td>
-   <td>Getpass</td>
-  </tr>
-</table> 
-
 <img src="https://i.imgur.com/G59pxcU.png" />
 <img src="https://i.imgur.com/Et6PYob.png" />
 <img src="https://i.imgur.com/KG0bIg4.png" />
