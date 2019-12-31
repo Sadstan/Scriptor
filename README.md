@@ -5,9 +5,6 @@ O script visa ter um conjunto de ferramentas para pentesters como keyloggers, ba
 <table>
    <tr>
      <td>Bibliotecas</td>
-     aa
-      a
-      a
      <td>Versão Python</td>   
    </tr>
   
