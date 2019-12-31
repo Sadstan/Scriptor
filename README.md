@@ -8,6 +8,10 @@ O script visa ter um conjunto de ferramentas para pentesters como keyloggers, ba
      <td>Versão Python</td>   
    </tr>
   
+  <tr>
+     <td>Bibliotecas</td>
+     <td>Versão Python</td>   
+  </tr>
 </table> 
 
 <img src="https://i.imgur.com/G59pxcU.png" />
