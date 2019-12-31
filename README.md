@@ -1,28 +1,23 @@
-# Prints
+# Scriptor
+
+O script visa ter um conjunto de ferramentas para pentesters como keyloggers, backdoors, scripts TCP/IP e exploits.
 
 <img src="https://i.imgur.com/G59pxcU.png" />
 <img src="https://i.imgur.com/Et6PYob.png" />
 <img src="https://i.imgur.com/KG0bIg4.png" />
 
-# Envio de emails em massa
-
+# Desenvolvimento inicial (SPAM SCRIPT)
 <img src="https://i.imgur.com/AcYcW0v.png" />
 
-# Download HTML link
-
-<img src="https://i.imgur.com/g0ZTQFa.png"/>
-
-# Versão do Python e bibliotecas
+# Bibliotecas utilizadas
 A versão utilizada no desenvolvimento do script foi utilizado a versão 3.7.2 do Python.
 Foi utilizado também as bibliotecas do Python: **Smtplib, OS, Getpass, Requests, Time**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/220px-Requests_Python_Logo.png"/>
 
-# Desenvolvimento
-O script está em desenvolvimento e em sua fase inicial, contendo apenas funcionalidades pequenas.
-O intuito é trazer uma ferramenta que seja capaz de entregar sub-ferramentas para que possa ser utilizado!
-A fase inicial apresentou apenas pequenas requisições web e envios de email em massa, tais funcionalidades que vão evoluir, desenvolveremos ferramentas de scan de redes e servidores para interceptação de dados que trafegam em uma rede local, identificação de aparelhos conectados a uma rede, port scanning e funcionalidades interessantes que possam ser utilizadas no dia-a-dia, tentaremos desenvolver o máximo de funcionalidades possíveis. Criptográfias, admin finders, keyloggers, backdoors são coisas que pretendemos trazer futuramente. Porém com um passo de cada vez, e iniciando do zero evoluiremos. A ideia principal é trazer todo tipo de ferramenta possível para busca de informações e pentesting em um só script.
-
 # Agradecimentos
 
 Humanos que apoiaram o projeto: Ana Luiza, Pedro Henrique, Diogo Fernando
+
+
+
